@@ -1,6 +1,6 @@
 {
   "name": "pck-2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "keywords": [
     "pck-2"
@@ -19,13 +19,12 @@
     "type": "git",
     "url": "git+https://github.com/Junting-Liu/test-lerna.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "bugs": {
     "url": "https://github.com/Junting-Liu/test-lerna/issues"
   },
   "dependencies": {
-    "common-util": "^0.0.0",
+    "common-util": "^0.0.1",
     "dva": "^2.4.1",
     "vue": "^2.6.12",
     "vue-cli": "^2.9.6"
