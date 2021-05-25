@@ -1,6 +1,6 @@
 {
   "name": "pck-1",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "pck-1",
   "keywords": [
     "pck-1"
@@ -27,7 +27,7 @@
     "url": "https://github.com/Junting-Liu/test-lerna/issues"
   },
   "dependencies": {
-    "common-util": "^0.0.1",
+    "common-util": "^0.1.0",
     "react": "^17.0.2"
   }
 }
