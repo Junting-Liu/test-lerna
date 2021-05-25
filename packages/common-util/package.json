@@ -1,0 +1,29 @@
+{
+  "name": "common-util",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Junting-Liu <liujunting_0913@qq.com>",
+  "homepage": "https://github.com/Junting-Liu/test-lerna#readme",
+  "license": "ISC",
+  "main": "lib/common-util.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junting-Liu/test-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Junting-Liu/test-lerna/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

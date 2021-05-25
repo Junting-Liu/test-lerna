@@ -1,0 +1,31 @@
+{
+  "name": "pck-1",
+  "version": "0.0.0",
+  "description": "pck-1",
+  "keywords": [
+    "pck-1"
+  ],
+  "author": "Junting-Liu <liujunting_0913@qq.com>",
+  "homepage": "https://github.com/Junting-Liu/test-lerna#readme",
+  "license": "ISC",
+  "main": "lib/pck-1.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junting-Liu/test-lerna.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/Junting-Liu/test-lerna/issues"
+  },
+  "dependencies": {
+    "common-util": "^0.0.0",
+    "react": "^17.0.2"
+  }
+}

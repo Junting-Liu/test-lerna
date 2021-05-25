@@ -1,0 +1,33 @@
+{
+  "name": "pck-2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "keywords": [
+    "pck-2"
+  ],
+  "author": "Junting-Liu <liujunting_0913@qq.com>",
+  "homepage": "https://github.com/Junting-Liu/test-lerna#readme",
+  "license": "ISC",
+  "main": "lib/pck-2.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junting-Liu/test-lerna.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/Junting-Liu/test-lerna/issues"
+  },
+  "dependencies": {
+    "common-util": "^0.0.0",
+    "dva": "^2.4.1",
+    "vue": "^2.6.12",
+    "vue-cli": "^2.9.6"
+  }
+}
