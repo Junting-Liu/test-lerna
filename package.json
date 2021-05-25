@@ -6,6 +6,11 @@
   },
   "scripts": {
     "add-deps": "lerna bootstrap",
-    "del-deps": "lerna bootstrap"
+    "del-deps": "lerna bootstrap",
+    "version": "lerna version  ——no-push",
+    "publish": "lerna publish from-git",
+    "diff": "lerna diff",
+    "build": "lerna run build",
+    "test": "lerna run test"
   }
 }
