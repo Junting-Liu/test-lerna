@@ -7,7 +7,7 @@
   "scripts": {
     "add-deps": "lerna bootstrap",
     "del-deps": "lerna bootstrap",
-    "version": "lerna version  ——no-push",
+    "version": "lerna version patch --no-push  --conventional-commits",
     "publish": "lerna publish from-git",
     "diff": "lerna diff",
     "build": "lerna run build",
