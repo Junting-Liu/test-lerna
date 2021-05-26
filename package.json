@@ -1,6 +1,9 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "rootpck",
+  "version": "0.1.2",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   },
