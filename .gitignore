@@ -5,5 +5,3 @@ node_modules
 .history
 .DS_Store
 
-# lock
-package-lock.json

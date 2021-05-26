@@ -9,6 +9,7 @@ Independent 模式（--independent）  --independent 或 -i
 
 - 安装所有依赖
 lerna bootstrap
+lerna bootstrap --registry https://registry.npmjs.org/
 
 - 为packages文件夹下的package安装依赖
 lerna add <package>[@version] [--dev] [--exact] # 命令签名
